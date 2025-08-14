@@ -50,7 +50,7 @@
 <ol>
   <li>Clone the repository:
     <pre><code>git clone https://github.com/Nemipatel210/CleverKey.git
-cd Brief-Assist</code></pre>
+cd CleverKey</code></pre>
     <p>There are two folders namely local_assistant which requires inference from LLM locally and remote_assistant which uses api to make inference. Just an advice, use remote_assistant folder files to get faster responses as compared to local_assistant files</p>
     <p>Using gemini-1.5-flash is most suitable for regular task because it is built to address developers’ top request for speed and affordability.</p>
   </li>
