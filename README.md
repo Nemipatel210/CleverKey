@@ -1,4 +1,4 @@
-<h1 align="center">Brief Assist</h1>
+<h1 align="center">CleverKey</h1>
 
 
 <p align="center">
