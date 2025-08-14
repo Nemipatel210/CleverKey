@@ -96,16 +96,5 @@ print(Key.f9.value, Key.f10.value)</code></pre>
 <h3>Inspired by</h3>
 <li>Andrej Karpathy's Twitter post about GPT's correcting minor typos. <a href="https://x.com/karpathy/status/1725553780878647482">Post</a></li>
 <li>Patrick Loeber's video about using httpx requests to call ollama api locally</li>
-<h2 id="contributing">🤝 Contributing</h2>
 
-<p>Contributions are welcome! Specifically, if you can make it usable for windows environment then please create a pull request.</p>
 
-<h2 id="contact">📫 Contact</h2>
-
-<p>For any queries, please contact <a href="mailto:manpatel.tech@gmail.com">manpatel.tech@gmail.com</a>.</p>
-
-<hr>
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/mann1105">Mann Patel</a>
-</p>
