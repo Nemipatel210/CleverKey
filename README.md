@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  Enhancing the power of large language models for everyday tasks. Generative AI has already streamlined numerous aspects of our daily tasks, and this project takes that convenience to the next level, making tasks faster and easier.
+  CleverKey is your AI-powered shortcut for everyday tasks, designed to fit seamlessly into your workflow. With just a hotkey, you can summarize long articles, correct grammar, refine code, translate text, or simply chat for quick answers — all without leaving your current app.
 </p>
 
 <p align="center">
